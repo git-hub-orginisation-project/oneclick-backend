@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World -backend -DEV-BRANCH'
+                echo 'Hello World -backend -DEV-BRANCH-1'
             }
         }
     }
